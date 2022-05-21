@@ -1,0 +1,1 @@
+[09-Sep-2021 23:04:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
